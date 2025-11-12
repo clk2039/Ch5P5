@@ -1,6 +1,6 @@
 /*
 File name: Ch5P5.cpp
-Github URL:
+Github URL: https://github.com/clk2039/Ch5P5.git
 Programmer: Kit Miller
 Date: November 2025
 Requirements: Write a program that generates a randomg number and asks the user to guess what the number is.
